@@ -5,3 +5,4 @@ Improve performance [rgL5J5] line 3.1
 Improve performance [rgL5J5] line 3.2
 Update documentation [b5aDzf] line 4.1
 Add feature for X [5RNE1j] line 8.1
+Add test case for W [i8OQCk] line 13.1
